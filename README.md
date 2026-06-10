@@ -1,16 +1,15 @@
-# Disaster Vision Monitor
+# Horizonte de Risco Monitor
 
 ## Integrantes
 
-- Nome Completo — RM XXXXXXX
-- Nome Completo — RM XXXXXXX
-- Nome Completo — RM XXXXXXX
+- Mohamed Afif Smaili — RM 554445
+
 
 ---
 
 ## Descrição do Projeto
 
-O Disaster Vision Monitor é uma aplicação desenvolvida em Python utilizando OpenCV para monitoramento visual em tempo real.
+O Horizonte de Risco Monitor é uma aplicação desenvolvida em Python utilizando OpenCV para monitoramento visual em tempo real.
 
 A solução utiliza a câmera do computador para detectar movimentações no ambiente e classificar automaticamente o nível de risco com base na intensidade dos movimentos identificados.
 
